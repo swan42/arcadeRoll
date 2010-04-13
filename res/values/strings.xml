@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MenuActivityName">Menu</string>
+    <string name="GameActivityName">ArcadeRoll</string>
+<string name="AppName">ArcadeRoll 1.0</string>
+</resources>
